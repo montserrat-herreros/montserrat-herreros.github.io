@@ -26,12 +26,30 @@
     </item>
     
     <item>
+      <title>Mobiliario:02: Modelo 3D y su mejora</title>
+      <link>https://montserrat-herreros.github.io/docs/mobiliario_02-hibridos/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://montserrat-herreros.github.io/docs/mobiliario_02-hibridos/</guid>
+      <description>El desarrollo de un solo híbrido concepto y modelación</description>
+    </item>
+    
+    <item>
       <title>Ejemplo Shortcodes</title>
       <link>https://montserrat-herreros.github.io/docs/ejemplo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://montserrat-herreros.github.io/docs/ejemplo/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplos Markdown</title>
+      <link>https://montserrat-herreros.github.io/docs/markdown-copy/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://montserrat-herreros.github.io/docs/markdown-copy/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
