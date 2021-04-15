@@ -70,5 +70,23 @@
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
+    <item>
+      <title>Mobiliario 04: Presentaciónes</title>
+      <link>https://montserrat-herreros.github.io/docs/mobiliario_04_hibridos/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://montserrat-herreros.github.io/docs/mobiliario_04_hibridos/</guid>
+      <description>Presentacion Individual del híbrido Foresta y Presentacion grupal de la colección Ammil.</description>
+    </item>
+    
+    <item>
+      <title>Comida 01: Entrevista cheff</title>
+      <link>https://montserrat-herreros.github.io/docs/comida_entrevista-_cheff/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://montserrat-herreros.github.io/docs/comida_entrevista-_cheff/</guid>
+      <description>Entrevistando al Cheff Rafael Chaparro.</description>
+    </item>
+    
   </channel>
 </rss>
