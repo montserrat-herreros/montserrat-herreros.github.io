@@ -88,5 +88,14 @@
       <description>Entrevistando al Cheff Rafael Chaparro.</description>
     </item>
     
+    <item>
+      <title>Comida 02: escaneo 3D Recap</title>
+      <link>https://montserrat-herreros.github.io/docs/comida_02/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://montserrat-herreros.github.io/docs/comida_02/</guid>
+      <description>Acá mostraré imagenes y renders que saque de un escaneo 3Dpor medio de a aplicación Recap y rhino. En esta primera aprendimos a importar imagenes, a cortar y editar el resultado, tanto llenar hoyos como cordar y suavizar ejes y cambiar la inclinación del objeto, por ultimo sacar fotos, videos, y exportarlo como OBJ.</description>
+    </item>
+    
   </channel>
 </rss>
