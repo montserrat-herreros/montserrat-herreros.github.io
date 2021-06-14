@@ -53,24 +53,6 @@
     </item>
     
     <item>
-      <title>Ejemplos Markdown</title>
-      <link>https://montserrat-herreros.github.io/docs/markdown-copy/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://montserrat-herreros.github.io/docs/markdown-copy/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Ejemplos Markdown</title>
-      <link>https://montserrat-herreros.github.io/docs/markdown/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://montserrat-herreros.github.io/docs/markdown/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
       <title>Mobiliario 04: Presentaciónes</title>
       <link>https://montserrat-herreros.github.io/docs/mobiliario_04_hibridos/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -95,6 +77,42 @@
       
       <guid>https://montserrat-herreros.github.io/docs/comida_02/</guid>
       <description>Acá mostraré imagenes y renders que saque de un escaneo 3Dpor medio de a aplicación Recap y rhino. En esta primera aprendimos a importar imagenes, a cortar y editar el resultado, tanto llenar hoyos como cordar y suavizar ejes y cambiar la inclinación del objeto, por ultimo sacar fotos, videos, y exportarlo como OBJ.</description>
+    </item>
+    
+    <item>
+      <title>Comida 03: Aprendiendo de Moldes</title>
+      <link>https://montserrat-herreros.github.io/docs/comida_03_moldes/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://montserrat-herreros.github.io/docs/comida_03_moldes/</guid>
+      <description>Aprendios a hacer moldes con Fusion 360.</description>
+    </item>
+    
+    <item>
+      <title>Comida 04: Menú GAME ON</title>
+      <link>https://montserrat-herreros.github.io/docs/comida_04_trabajo_final/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://montserrat-herreros.github.io/docs/comida_04_trabajo_final/</guid>
+      <description>Creación de platos en conjunto</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://montserrat-herreros.github.io/docs/markdown/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://montserrat-herreros.github.io/docs/markdown/</guid>
+      <description>Aprendiendo a hacer moldes con fusion 360.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplos Markdown</title>
+      <link>https://montserrat-herreros.github.io/docs/markdown-copy/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://montserrat-herreros.github.io/docs/markdown-copy/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
   </channel>
